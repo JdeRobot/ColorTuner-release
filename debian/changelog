@@ -1,0 +1,20 @@
+ros-kinetic-jderobot-color-tuner (0.0.3-1xenial) xenial; urgency=high
+
+
+
+ -- Francisco Perez <f.perez475@gmail.com>  Mon, 30 Sep 2019 22:00:00 -0000
+
+ros-kinetic-jderobot-color-tuner (0.0.2-1xenial) xenial; urgency=high
+
+  * Merge pull request #6 <https://github.com/jderobot/colortuner/issues/6> from pankhurivanjani/master
+    Extending colorTuner to support both ROS1 and ROS2 via modified interface
+  * changed config file for loading yaml file in ros1 and ros2 automatically
+  * changes in config file for loading yaml file in ros1 and ros2
+  * Committing new interface for colortuner
+  * Committing new interface
+  * Moved color tuner from base with package.xml
+  * Contributors: Francisco Perez, Pankhuri Vanjani, pankhurivanjani
+
+ -- Francisco Perez <f.perez475@gmail.com>  Mon, 02 Sep 2019 22:00:00 -0000
+
+
