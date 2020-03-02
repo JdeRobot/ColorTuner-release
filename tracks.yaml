@@ -38,7 +38,7 @@ tracks:
       :{release_inc}
     devel_branch: null
     last_version: 0.0.3
-    name: upstream
+    name: jderobot_color_tuner
     patches: null
     release_inc: '5'
     release_repo_url: https://github.com/JdeRobot/ColorTuner-release
