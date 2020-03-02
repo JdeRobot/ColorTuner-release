@@ -1,3 +1,26 @@
+## jderobot_color_tuner (melodic) - 0.0.3-6
+
+The packages in the `jderobot_color_tuner` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic jderobot_color_tuner --edit` on `Mon, 02 Mar 2020 02:27:38 -0000`
+
+The `jderobot_color_tuner` package was released.
+
+Version of package(s) in repository `jderobot_color_tuner`:
+
+- upstream repository: https://github.com/JdeRobot/ColorTuner.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.3-5`
+- new version: `0.0.3-6`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## ColorTuner (melodic) - 0.0.3-5
 
 The packages in the `ColorTuner` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic ColorTuner --edit` on `Wed, 26 Feb 2020 08:10:18 -0000`
